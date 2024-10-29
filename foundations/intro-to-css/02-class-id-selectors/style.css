@@ -1,0 +1,12 @@
+.top, 
+.bottom,
+.middle {
+background-color: #ff000060;
+font-family: "Verdana", "Deja Sans", sans-serif;
+
+} 
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
